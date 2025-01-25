@@ -1,3 +1,3 @@
 # odin-recipes
 
-I am going to create a recipe website. 
+This project is part of the excercises in the Odin Web Development Course. 
